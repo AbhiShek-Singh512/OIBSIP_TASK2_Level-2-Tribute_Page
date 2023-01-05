@@ -1,0 +1,52 @@
+.body {
+    background-color: #fac400;
+    margin-top: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 10%;
+}
+
+.div{
+    
+        background-color: rgb(46, 139, 87, 0.25);
+        box-shadow: 20px 20px 20px #98FB98;
+        font-family: Georgia;
+        padding: 25px 25px;
+        margin: 11px;
+        margin-top: 50px;
+        border-radius: 40px;
+        border: 10%;
+        border-color: black;
+    }
+    .div:hover{
+        background-color: rgba(131, 138, 121, 0.5);
+    }
+
+.title{
+
+    text-align: center;
+    font-size: 35px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-shadow: 5px 5px 10px rgb(255, 255, 255);
+}
+
+.caption {
+    font-size: 20px;
+    font-family: Gill Sans;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.h1.h1 {
+    font-size: 35px;
+    color: white;
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+}
+
+.p{
+    color: black;
+    margin-left: 5px;
+    margin-right: 5px;
+}
